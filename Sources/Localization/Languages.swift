@@ -1,5 +1,5 @@
 // Uses ISO language codes.
-public enum Language: String, Hashable {
+public enum Language: String, Hashable, Sendable {
     case aa
     case ab
     case ace

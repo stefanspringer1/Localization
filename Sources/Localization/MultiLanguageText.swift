@@ -1,5 +1,3 @@
-import Foundation
-
 public typealias MultiLanguageText = [Language:String]
 
 extension MultiLanguageText {

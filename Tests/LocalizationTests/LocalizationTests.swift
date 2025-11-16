@@ -1,5 +1,4 @@
 import Testing
-import Foundation
 
 @Suite(.serialized) struct LocalizationTests {
     

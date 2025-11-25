@@ -1,5 +1,5 @@
 // Uses ISO language codes.
-@available(*, deprecated, message: "this package is deprecated, use the repository https://github.com/swiftxml/Localization instead")
+@available(*, deprecated, message: "this package is deprecated, use the repository https://github.com/swiftxml/Localization instead and note the version number being reset to 1.0.0")
 public enum Language: String, Hashable, Sendable {
     case aa
     case ab
